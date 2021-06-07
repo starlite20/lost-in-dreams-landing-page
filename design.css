@@ -1,0 +1,40 @@
+
+:root{
+    --txt-color : #d3d3d3;
+    --bg-color : #161a1d;
+    --prim-color : #ba181b ;
+    --sec-color : #660708;
+    --ult-bg-color : #0b090a;
+}
+
+
+.ultra-bg{
+    background-color: var(--ult-bg-color);
+}
+
+.padding-remover{
+    padding-inline-start: 0px;
+}
+
+body{
+    background-color: var(--ult-bg-color);
+    color:var(--txt-color);
+
+    max-width : 600px;
+    margin:auto;
+
+    text-align: center;
+}
+
+.no-decor-list{
+    list-style-type: none;
+}
+
+.no-decor-txt{
+    text-decoration: none;
+}
+
+.navbar-link
+{
+    color:var(--sec-color);
+}
