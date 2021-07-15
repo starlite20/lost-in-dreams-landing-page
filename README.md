@@ -1,2 +1,3 @@
 # lost-in-dreams-landing-page
- Lost In Dreams Game
+ The official Website for the game, Lost In Dreams.
+ 
