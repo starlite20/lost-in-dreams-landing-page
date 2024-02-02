@@ -222,6 +222,34 @@ body{
     100%{background-position:84% 0%}
 }
 
+/**credits**/
+.reviews {
+    background: linear-gradient(270deg, #0a5944, #14375c);
+    background-size: 600% 600%;
+
+    -webkit-animation: AnimationName 3s ease infinite;
+    -moz-animation: AnimationName 3s ease infinite;
+    animation: AnimationName 3s ease infinite;
+
+    padding-top:6rem;
+    padding-bottom:6rem;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:84% 0%}
+    50%{background-position:17% 100%}
+    100%{background-position:84% 0%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:84% 0%}
+    50%{background-position:17% 100%}
+    100%{background-position:84% 0%}
+}
+@keyframes AnimationName {
+    0%{background-position:84% 0%}
+    50%{background-position:17% 100%}
+    100%{background-position:84% 0%}
+}
 
 /**credits**/
 .credits {
